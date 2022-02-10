@@ -13,7 +13,7 @@ Currently provisioned as a nested host on ESXi (172.16.144.100).
 ## Use VM Template - WinServ2019-HyperV
 The following configurations have already been completed:
 - initial install Windows Server 2019 Datacenter (Desktop Experience)
-- KMS Licence Key `CB7KF-BWN84-R7R2Y-793K2-8XDDG`
+- KMS Licence Key `WMDGN-G9PQG-XVVXX-R3X43-63DFG`
 - local account u:Administrator p:P@ssw0rd
 - VMware Tools Installed
 - Windows updates (Feb 2022)
